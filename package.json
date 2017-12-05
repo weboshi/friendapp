@@ -1,5 +1,5 @@
 {
-  "name": "hotrestaurant",
+  "name": "solution",
   "version": "1.0.1",
   "description": "",
   "main": "server.js",
@@ -13,5 +13,13 @@
   "dependencies": {
     "body-parser": "^1.15.0",
     "express": "^4.13.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weboshi/friendapp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/weboshi/friendapp/issues"
+  },
+  "homepage": "https://github.com/weboshi/friendapp#readme"
 }

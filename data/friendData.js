@@ -8,9 +8,17 @@
 var friendArray = [
   {
     name: "Happy",
-    scores: [],
+    scores: [1, 5, 3, 2, 4],
+  },
+  {
+    name: "Miku",
+    scores: [1, 5, 3, 2, 4],
+  },
+  {
+    name: "Bleep",
+    scores: [3, 3, 2, 3, 1,]
   }
 ];
 
 // Note how we export the array. This makes it accessible to other files using require.
-module.exports = tableArray;
+module.exports = friendArray;
